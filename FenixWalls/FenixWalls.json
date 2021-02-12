@@ -1,5 +1,50 @@
 [
   {
+    "name": "Selena1",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Daniela/Selena1.jpg",
+	"collections":"Daniela"
+  },
+  {
+    "name": "Selana2",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Daniela/Selena2.jpg",
+	"collections":"Daniela"
+  },
+  {
+    "name": "Selana3",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Daniela/Selena3.jpg",
+	"collections":"Daniela"
+  },
+  {
+    "name": "Selana4",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Daniela/Selena4.jpg",
+	"collections":"Daniela"
+  },
+  {
+    "name": "Selana5",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Daniela/Selena5.jpg",
+	"collections":"Daniela"
+  },
+  {
+    "name": "Selana6",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Daniela/Selena6.jpg",
+	"collections":"Daniela"
+  },
+  {
+    "name": "Selana7",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Daniela/Selena6.jpg",
+	"collections":"Daniela"
+  },
+  {
+    "name": "Selana8",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Daniela/Selena8.jpg",
+	"collections":"Daniela"
+  },
+  {
+    "name": "Selana9",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Daniela/Selena9.jpg",
+	"collections":"Daniela"
+  },
+  {
     "name": "BB6-BA",
     "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/BB6/BB6-BA.png",
 	"collections":"BB6"
@@ -127,7 +172,7 @@
   {
     "name": "CamoGN8",
     "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGN/8.png",
-	"collections":"CamoGN"
+	"collections":"CamoGM"
   },
   {
     "name": "CamoGN9",
