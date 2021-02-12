@@ -1,4 +1,5 @@
 [
+[
   {
     "name": "BB6-BA",
     "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/BB6/BB6-BA.png",
@@ -43,5 +44,50 @@
     "name": "Marabunta",
     "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGANG/Marabunta.png",
 	"collections":"CamoGang"
+  },
+  {
+    "name": "CamoGM1",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGM/1.png",
+	"collections":"CamoGM"
+  },
+  {
+    "name": "CamoGM2",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGM/2.png",
+	"collections":"CamoGM"
+  },
+  {
+    "name": "CamoGM3",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGM/3.png",
+	"collections":"CamoGM"
+  },
+  {
+    "name": "CamoGM4",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGM/4.png",
+	"collections":"CamoGM"
+  },
+  {
+    "name": "CamoGM5",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGM/5.png",
+	"collections":"CamoGM"
+  },
+  {
+    "name": "CamoGM6",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGM/6.png",
+	"collections":"CamoGM"
+  },
+  {
+    "name": "CamoGM7",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGM/7.png",
+	"collections":"CamoGM"
+  },
+  {
+    "name": "CamoGM8",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGM/8.png",
+	"collections":"CamoGM"
+  },
+  {
+    "name": "CamoGM9",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGM/9.png",
+	"collections":"CamoGM"
   }
 ]
