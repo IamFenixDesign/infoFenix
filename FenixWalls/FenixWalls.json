@@ -1,5 +1,35 @@
 [
   {
+    "name": "Car1",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Julian/1.png",
+	"collections":"Julian"
+  },
+  {
+    "name": "Car2",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Julian/2.png",
+	"collections":"Julian"
+  },
+  {
+    "name": "Car3",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Julian/3.png",
+	"collections":"Julian"
+  },
+  {
+    "name": "Car4",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Julian/4.png",
+	"collections":"Julian"
+  },
+  {
+    "name": "Car5",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Julian/5.png",
+	"collections":"Julian"
+  },
+  {
+    "name": "Car6",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Julian/6.png",
+	"collections":"Julian"
+  },
+  {
     "name": "Selena1",
     "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/Daniela/Selena1.jpg",
 	"collections":"Daniela"
