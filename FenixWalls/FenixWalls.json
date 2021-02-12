@@ -18,5 +18,30 @@
     "name": "BB6-M2",
     "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/BB6/BB6-M2.png",
 	"collections":"BB6"
+  },
+  {
+    "name": "Ballas",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGANG/Ballas.png",
+	"collections":"CamoGang"
+  },
+  {
+    "name": "Bloods",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGANG/Bloods.png",
+	"collections":"CamoGang"
+  },
+  {
+    "name": "Families",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGANG/Families.png",
+	"collections":"CamoGang"
+  },
+  {
+    "name": "FrontYardBallas",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGANG/FrontYardBallas.png",
+	"collections":"CamoGang"
+  },
+  {
+    "name": "Marabunta",
+    "url": "https://raw.githubusercontent.com/IamFenixDesign/infoFenix/main/FenixWalls/CamoGANG/Marabunta.png",
+	"collections":"CamoGang"
   }
 ]
